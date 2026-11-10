@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Adam Zidek. I am a fellow human from Western Pennsylvania. I am big into the outdoors, and have a bachelors degree in computer science. I have worked as a software engineer for most of my 20's.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My goal with this site, is to have a space to start exploring and sharing ideas/projects. Specifically, about data analysis, environmental conservation, and how the environment is shaped by behavior. This is not my primary area of study, so this is largely exploratory and a learning experience for me.
