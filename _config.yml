@@ -23,10 +23,6 @@ navbar-links:
   Projects: "projects"
   Entries: "myentries"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://adamzidek.github.io/"
 
 ################
 # --- Logo --- #
